@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>	
+#include <thread>
 
 
 void min(int n) {
